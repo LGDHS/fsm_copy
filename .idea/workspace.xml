@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dc5b94f-8a34-4217-90a9-342df97130a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fsm_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/fsm_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1pErYquRRNR7Fbj4hlRUnTL0k0l" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestCancelBeforeGenericEvent in github.com/looplab/fsm">
+    <configuration name="ExampleNewFSM in github.com/looplab/fsm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fsm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/looplab/fsm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QExampleNewFSM\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCallbackArgs in github.com/looplab/fsm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fsm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/looplab/fsm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCallbackArgs\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCallbackError in github.com/looplab/fsm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fsm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/looplab/fsm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCallbackError\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCancelBeforeGenericEvent in github.com/looplab/fsm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fsm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/looplab/fsm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestCancelBeforeGenericEvent\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestNoDeadLock in github.com/looplab/fsm" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="fsm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/looplab/fsm" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestNoDeadLock\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestCancelBeforeGenericEvent in github.com/looplab/fsm" />
+        <item itemvalue="Go Test.ExampleNewFSM in github.com/looplab/fsm" />
+        <item itemvalue="Go Test.TestNoDeadLock in github.com/looplab/fsm" />
+        <item itemvalue="Go Test.TestCallbackArgs in github.com/looplab/fsm" />
+        <item itemvalue="Go Test.TestCallbackError in github.com/looplab/fsm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="http://goproxy.pri.ibanyu.com" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="278" key="#Go_Modules" timestamp="1614759161011">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="520" y="278" key="#Go_Modules/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759161011" />
+    <state x="611" y="306" key="EnvironmentVariablesDialog" timestamp="1614759159632">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state x="611" y="306" key="EnvironmentVariablesDialog/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759159632" />
+    <state width="1398" height="324" key="GridCell.Tab.0.bottom" timestamp="1614827722230">
+      <screen x="-557" y="-1055" width="1920" height="1011" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.25.1440.831/-557.-1055.1920.1055@-557.-1055.1920.1055" timestamp="1614760953848" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759860525" />
+    <state width="1398" height="324" key="GridCell.Tab.0.bottom/0.25.1440.875/-557.-1055.1920.1011@-557.-1055.1920.1011" timestamp="1614827722230" />
+    <state width="1398" height="324" key="GridCell.Tab.0.center" timestamp="1614827722229">
+      <screen x="-557" y="-1055" width="1920" height="1011" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.25.1440.831/-557.-1055.1920.1055@-557.-1055.1920.1055" timestamp="1614760953848" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759860523" />
+    <state width="1398" height="324" key="GridCell.Tab.0.center/0.25.1440.875/-557.-1055.1920.1011@-557.-1055.1920.1011" timestamp="1614827722229" />
+    <state width="1398" height="324" key="GridCell.Tab.0.left" timestamp="1614827722229">
+      <screen x="-557" y="-1055" width="1920" height="1011" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.25.1440.831/-557.-1055.1920.1055@-557.-1055.1920.1055" timestamp="1614760953847" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759860521" />
+    <state width="1398" height="324" key="GridCell.Tab.0.left/0.25.1440.875/-557.-1055.1920.1011@-557.-1055.1920.1011" timestamp="1614827722229" />
+    <state width="1398" height="324" key="GridCell.Tab.0.right" timestamp="1614827722230">
+      <screen x="-557" y="-1055" width="1920" height="1011" />
+    </state>
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.25.1440.831/-557.-1055.1920.1055@-557.-1055.1920.1055" timestamp="1614760953848" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759860524" />
+    <state width="1398" height="324" key="GridCell.Tab.0.right/0.25.1440.875/-557.-1055.1920.1011@-557.-1055.1920.1011" timestamp="1614827722230" />
+    <state width="1398" height="324" key="GridCell.Tab.1.bottom" timestamp="1614827722231">
+      <screen x="-557" y="-1055" width="1920" height="1011" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759766641" />
+    <state width="1398" height="324" key="GridCell.Tab.1.bottom/0.25.1440.875/-557.-1055.1920.1011@-557.-1055.1920.1011" timestamp="1614827722231" />
+    <state width="1398" height="324" key="GridCell.Tab.1.center" timestamp="1614827722230">
+      <screen x="-557" y="-1055" width="1920" height="1011" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.center/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759766641" />
+    <state width="1398" height="324" key="GridCell.Tab.1.center/0.25.1440.875/-557.-1055.1920.1011@-557.-1055.1920.1011" timestamp="1614827722230" />
+    <state width="1398" height="324" key="GridCell.Tab.1.left" timestamp="1614827722230">
+      <screen x="-557" y="-1055" width="1920" height="1011" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.left/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759766641" />
+    <state width="1398" height="324" key="GridCell.Tab.1.left/0.25.1440.875/-557.-1055.1920.1011@-557.-1055.1920.1011" timestamp="1614827722230" />
+    <state width="1398" height="324" key="GridCell.Tab.1.right" timestamp="1614827722231">
+      <screen x="-557" y="-1055" width="1920" height="1011" />
+    </state>
+    <state width="1398" height="256" key="GridCell.Tab.1.right/0.25.1440.831/-557.-1055.1920.1055@0.25.1440.831" timestamp="1614759766641" />
+    <state width="1398" height="324" key="GridCell.Tab.1.right/0.25.1440.875/-557.-1055.1920.1011@-557.-1055.1920.1011" timestamp="1614827722231" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/fsm.go</url>
+          <line>140</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/fsm_test.go</url>
+          <line>304</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/fsm.go</url>
+          <line>290</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
